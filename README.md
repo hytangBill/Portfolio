@@ -1,4 +1,4 @@
 Previous works:
 
-1. Python in Finance with NTU
-2. Machine Learning with NTU (428期 期末專題, Taiwan banking law 72-2 prediction)
+1. Python in Finance with NTU - Stock analysis quant lab
+2. Machine Learning with NTU (Class 428, Final Project- Taiwan banking law 72-2 prediction)
